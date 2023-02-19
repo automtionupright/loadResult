@@ -1,0 +1,50 @@
+{
+  "BeanShell Sampler" : {
+    "transaction" : "BeanShell Sampler",
+    "sampleCount" : 1,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 10.0,
+    "medianResTime" : 10.0,
+    "minResTime" : 10.0,
+    "maxResTime" : 10.0,
+    "pct1ResTime" : 10.0,
+    "pct2ResTime" : 10.0,
+    "pct3ResTime" : 10.0,
+    "throughput" : 100.0,
+    "receivedKBytesPerSec" : 0.0,
+    "sentKBytesPerSec" : 0.0
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 2,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 813.0,
+    "medianResTime" : 813.0,
+    "minResTime" : 10.0,
+    "maxResTime" : 1616.0,
+    "pct1ResTime" : 1616.0,
+    "pct2ResTime" : 1616.0,
+    "pct3ResTime" : 1616.0,
+    "throughput" : 1.1723329425556857,
+    "receivedKBytesPerSec" : 0.1305136283704572,
+    "sentKBytesPerSec" : 0.4774051143024619
+  },
+  "Create users" : {
+    "transaction" : "Create users",
+    "sampleCount" : 1,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 1616.0,
+    "medianResTime" : 1616.0,
+    "minResTime" : 1616.0,
+    "maxResTime" : 1616.0,
+    "pct1ResTime" : 1616.0,
+    "pct2ResTime" : 1616.0,
+    "pct3ResTime" : 1616.0,
+    "throughput" : 0.6188118811881188,
+    "receivedKBytesPerSec" : 0.13778233292079206,
+    "sentKBytesPerSec" : 0.503993270420792
+  }
+}
